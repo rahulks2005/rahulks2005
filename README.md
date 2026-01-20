@@ -1,21 +1,30 @@
-# 💫 About Me:
-I' m currently working on simple python project<br>I' m currently a student<br>I'm currently learning a python programing language<br>After learning a python , I want to do a freelance job
+# 💫 About Me
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_rahurahu) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rahulks2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahulks2005&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulks2005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rahulks2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I am a Computer Science Engineering student with a strong interest in software development and application building.  
+I enjoy working with programming languages like Python, C, and Java, and I am currently learning Flutter for mobile app development.  
+I focus on building simple, practical projects that help strengthen my core concepts and problem-solving skills.  
+I am actively seeking internship opportunities to gain real-world industry experience and grow as a developer.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rahulks2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Technical Skills
+
+- **C Programming Language**
+- **Python Programming Language**
+- **Java Programming Language**
+- **Flutter (Beginner)** – Widgets, Scaffold, Material UI, basic state handling, UI layout, TextField, Button, AppBar, basic navigation
+- **Dart (Basics)**
+
+---
+
+## 🤝 Soft Skills
+
+- Problem-solving  
+- Team Collaboration  
+- Strong Communication  
+
+---
+
+## 🌐 Socials
+
+- Instagram: [@mr_rahurahu](https://instagram.com/mr_rahurahu)
